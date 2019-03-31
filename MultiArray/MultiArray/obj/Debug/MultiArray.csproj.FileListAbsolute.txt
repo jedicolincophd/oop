@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2012\Projects\MultiArray\MultiArray\bin\Debug\MultiArray.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\MultiArray\MultiArray\obj\Debug\MultiArray.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\MultiArray\MultiArray\bin\Debug\MultiArray.exe
+c:\users\admin\documents\visual studio 2012\Projects\MultiArray\MultiArray\bin\Debug\MultiArray.pdb
+c:\users\admin\documents\visual studio 2012\Projects\MultiArray\MultiArray\obj\Debug\MultiArray.exe
+c:\users\admin\documents\visual studio 2012\Projects\MultiArray\MultiArray\obj\Debug\MultiArray.pdb
