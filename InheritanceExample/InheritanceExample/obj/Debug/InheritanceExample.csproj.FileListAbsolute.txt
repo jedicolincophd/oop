@@ -1,0 +1,11 @@
+c:\users\admin\documents\visual studio 2012\Projects\InheritanceExample\InheritanceExample\bin\Debug\InheritanceExample.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\InheritanceExample\InheritanceExample\bin\Debug\InheritanceExample.exe
+c:\users\admin\documents\visual studio 2012\Projects\InheritanceExample\InheritanceExample\bin\Debug\InheritanceExample.pdb
+c:\users\admin\documents\visual studio 2012\Projects\InheritanceExample\InheritanceExample\obj\Debug\InheritanceExample.exe
+c:\users\admin\documents\visual studio 2012\Projects\InheritanceExample\InheritanceExample\obj\Debug\InheritanceExample.pdb
+C:\Users\sam\Desktop\Jedidiah Jan Colinco\ComSci 35 - OOP\Projects\InheritanceExample\InheritanceExample\InheritanceExample\obj\Debug\InheritanceExample.csprojResolveAssemblyReference.cache
+C:\Users\sam\Desktop\Jedidiah Jan Colinco\ComSci 35 - OOP\Projects\InheritanceExample\InheritanceExample\InheritanceExample\bin\Debug\InheritanceExample.exe.config
+C:\Users\sam\Desktop\Jedidiah Jan Colinco\ComSci 35 - OOP\Projects\InheritanceExample\InheritanceExample\InheritanceExample\bin\Debug\InheritanceExample.exe
+C:\Users\sam\Desktop\Jedidiah Jan Colinco\ComSci 35 - OOP\Projects\InheritanceExample\InheritanceExample\InheritanceExample\bin\Debug\InheritanceExample.pdb
+C:\Users\sam\Desktop\Jedidiah Jan Colinco\ComSci 35 - OOP\Projects\InheritanceExample\InheritanceExample\InheritanceExample\obj\Debug\InheritanceExample.exe
+C:\Users\sam\Desktop\Jedidiah Jan Colinco\ComSci 35 - OOP\Projects\InheritanceExample\InheritanceExample\InheritanceExample\obj\Debug\InheritanceExample.pdb
